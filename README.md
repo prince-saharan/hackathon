@@ -1,5 +1,5 @@
 # VidyutFleet — Enterprise Fleet EV Transition & Depot Infrastructure Planner
-### Smart India Hackathon 2026 / HACKNAUTS 2.0 | Team Vidyut (GNDEC Ludhiana)
+### HACKNAUTS 2.0 | Team Vidyut (GNDEC Ludhiana)
 > **Tagline:** *Optimizing EV adoption for Indian logistics fleets.*  
 > **Git Repository:** [https://github.com/prince-saharan/hackathon](https://github.com/prince-saharan/hackathon)  
 > **Committed Author:** `prince-saharan`
